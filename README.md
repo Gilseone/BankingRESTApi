@@ -1,15 +1,15 @@
 ## Configurar a string de conexão
-No arquivo "appsettings.json" informar o banco de dados, usuário e senha.<br />
-Neste projeto usei MySql e como Entity Framework Core provider usei Pomelo.EntityFrameworkCore.MySql.<br /><br />
+No arquivo **appsettings.json** informar o banco de dados, usuário e senha.<br />
+Neste projeto usei **MySql** e como **Entity Framework Core provider** usei **Pomelo.EntityFrameworkCore.MySql**.<br /><br />
 
 ## Rodar as Migrations:
-//Creates a migration by adding a migration snapshot.
-PM> add-migration <migration name>
-//Updates the database schema based on the last migration snapshot.
-PM> Update-database
+//Creates a migration by adding a migration snapshot.<br />
+PM> add-migration <migration name><br />
+//Updates the database schema based on the last migration snapshot.<br />
+PM> Update-database<br /><br />
 
-Para testar a aplicação:
-Rodar o projeto no Visual Studio
+Para testar a aplicação:<br />
+Rodar o projeto no Visual Studio<br /><br />
 
 ##Endpoints que podem ser testados no Postman:
 
