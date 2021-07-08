@@ -4,9 +4,9 @@ Neste projeto usei **MySql** e como **Entity Framework Core provider** usei **Po
 
 ## Rodar as Migrations:
 //Creates a migration by adding a migration snapshot.<br />
-PM> add-migration <migration name><br />
+**PM> add-migration <migration name>**<br />
 //Updates the database schema based on the last migration snapshot.<br />
-PM> Update-database<br /><br />
+**PM> Update-database**<br /><br />
 
 Para testar a aplicação:<br />
 Rodar o projeto no Visual Studio<br /><br />
