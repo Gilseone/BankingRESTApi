@@ -14,10 +14,10 @@ Rodar o projeto no Visual Studio
 ##Endpoints que podem ser testados no Postman:
 
 ### Cliente
-  GET
-  /api/Cliente/v{version}
-  Ex.: https://localhost:44352/api/Cliente/v1
-  //Pega todas as contas existentes na base de dados
+  GET<br />
+  /api/Cliente/v{version}<br />
+  Ex.: https://localhost:44352/api/Cliente/v1<br />
+  //Pega todas as contas existentes na base de dados<br />
 
 POST
 /api/Cliente/v{version}
