@@ -16,9 +16,9 @@ Rodar o projeto no Visual Studio
 ### Cliente
 
 GET
-/api/Cliente/v{version}
-Ex.: https://localhost:44352/api/Cliente/v1
-//Pega todas as contas existentes na base de dados
+  /api/Cliente/v{version}
+  Ex.: https://localhost:44352/api/Cliente/v1
+  //Pega todas as contas existentes na base de dados
 
 POST
 /api/Cliente/v{version}
